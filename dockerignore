@@ -1,0 +1,11 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+.git
+.env
+interfaz/
+flutter_serena/
+backend/datos/embeddings/
+backend/datos/sesiones/
+*.db
